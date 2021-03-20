@@ -1,2 +1,2 @@
 # cv
-**Visit** : [live demo]( https://ganapathyda.github.io/cv/)
+**Visit** : [live demo]( https://GanapathySubramanian.github.io/cv/)
